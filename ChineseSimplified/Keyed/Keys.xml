@@ -9,7 +9,7 @@
 	<RqRI_ProjectCost>项目点数:</RqRI_ProjectCost>
 	<RqRI_ProjectCostMultiplied>项目点数倍率-{0}:</RqRI_ProjectCostMultiplied>
 	<RqRI_ResearchSpeed>当前研究速度:</RqRI_ResearchSpeed>
-	<RqRI_ResearchSpeedSoloDesc>这是 {0} 当前的研究速度。</RqRI_ResearchSpeedSoloDesc>
+	<RqRI_ResearchSpeedSoloDesc>这是 {0} 当前的研究速度:\n</RqRI_ResearchSpeedSoloDesc>
 	<RqRI_ToolTipDetails_Researcher>Researcher efficiency</RqRI_ToolTipDetails_Researcher><!-- Tooltip -->
 	<RqRI_ToolTipDetails_ResearchBench>Research bench factor</RqRI_ToolTipDetails_ResearchBench><!-- Tooltip -->
 	<RqRI_ResearchSpeedMultipleDesc>殖民者们当前的研究速度:\n</RqRI_ResearchSpeedMultipleDesc>
